@@ -1,0 +1,116 @@
+{
+  "configVersion": 1,
+  "timestamp": 1579133690942,
+  "index": "/UOCJob/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/UOCJob/10-es2015.2d4ce03a4181420c01c6.js",
+        "/UOCJob/10-es5.2d4ce03a4181420c01c6.js",
+        "/UOCJob/11-es2015.8d0e7f70e6e4c703d602.js",
+        "/UOCJob/11-es5.8d0e7f70e6e4c703d602.js",
+        "/UOCJob/12-es2015.e4f774786aa11fe4f2f1.js",
+        "/UOCJob/12-es5.e4f774786aa11fe4f2f1.js",
+        "/UOCJob/6-es2015.8fc1c981bf80ba207fac.js",
+        "/UOCJob/6-es5.8fc1c981bf80ba207fac.js",
+        "/UOCJob/7-es2015.6b3524f9b1691ba827e6.js",
+        "/UOCJob/7-es5.6b3524f9b1691ba827e6.js",
+        "/UOCJob/8-es2015.cce3a1f07d80d098d3b9.js",
+        "/UOCJob/8-es5.cce3a1f07d80d098d3b9.js",
+        "/UOCJob/9-es2015.88031c7bd50a47f10d7c.js",
+        "/UOCJob/9-es5.88031c7bd50a47f10d7c.js",
+        "/UOCJob/common-es2015.d74e024dbd34aaad5f5d.js",
+        "/UOCJob/common-es5.d74e024dbd34aaad5f5d.js",
+        "/UOCJob/favicon.ico",
+        "/UOCJob/index.html",
+        "/UOCJob/main-es2015.3abbf8897bc93d6fe16a.js",
+        "/UOCJob/main-es5.3abbf8897bc93d6fe16a.js",
+        "/UOCJob/manifest.webmanifest",
+        "/UOCJob/polyfills-es2015.79b5019f4dff069483c4.js",
+        "/UOCJob/polyfills-es5.5e48fa3dc66991f311b0.js",
+        "/UOCJob/runtime-es2015.b299f53a8ba1037f6872.js",
+        "/UOCJob/runtime-es5.b299f53a8ba1037f6872.js",
+        "/UOCJob/styles.d0f64bd07c0040e3dd3b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/UOCJob/assets/icons/icon-128x128.png",
+        "/UOCJob/assets/icons/icon-144x144.png",
+        "/UOCJob/assets/icons/icon-152x152.png",
+        "/UOCJob/assets/icons/icon-192x192.png",
+        "/UOCJob/assets/icons/icon-384x384.png",
+        "/UOCJob/assets/icons/icon-512x512.png",
+        "/UOCJob/assets/icons/icon-72x72.png",
+        "/UOCJob/assets/icons/icon-96x96.png",
+        "/UOCJob/assets/img/perfil.png",
+        "/UOCJob/assets/img/uoc_logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/UOCJob/10-es2015.2d4ce03a4181420c01c6.js": "d1e550d0089747995a311439e7af10b1dcb9cfe4",
+    "/UOCJob/10-es5.2d4ce03a4181420c01c6.js": "956883536ea39feb2d7fb61cd4eb95c3dac3bcbe",
+    "/UOCJob/11-es2015.8d0e7f70e6e4c703d602.js": "96ac21c6a160f20f3a0f006f9773a983367ee08e",
+    "/UOCJob/11-es5.8d0e7f70e6e4c703d602.js": "f4e74adcbbd202253775456bff09eba7d3a9c109",
+    "/UOCJob/12-es2015.e4f774786aa11fe4f2f1.js": "f3924d3efcc0e10e959b57be3e4b6c6f552c2f67",
+    "/UOCJob/12-es5.e4f774786aa11fe4f2f1.js": "3a02474cf135bdd35ca5d32034a9f8a83b06cdb7",
+    "/UOCJob/6-es2015.8fc1c981bf80ba207fac.js": "2bef665618162990d49878c10434c2042b69916b",
+    "/UOCJob/6-es5.8fc1c981bf80ba207fac.js": "e76b1eb3f2216b66a6ed00b54654ff89fe15daba",
+    "/UOCJob/7-es2015.6b3524f9b1691ba827e6.js": "5bbc88ac96310fa76db2e0994c19f520b5c77c59",
+    "/UOCJob/7-es5.6b3524f9b1691ba827e6.js": "751d1f631b80fe70431cb890ea026da5311804d5",
+    "/UOCJob/8-es2015.cce3a1f07d80d098d3b9.js": "33d42e715603cfe23f51bb08b6817eb2d6d92477",
+    "/UOCJob/8-es5.cce3a1f07d80d098d3b9.js": "645b5643cf812bc0f23ea5ea4aee2bb54c470a1e",
+    "/UOCJob/9-es2015.88031c7bd50a47f10d7c.js": "4470f7c0794a6ff352874314035dedffddd1c282",
+    "/UOCJob/9-es5.88031c7bd50a47f10d7c.js": "cd1da02fd53dc0dc15842b26faf840f5cd0357fb",
+    "/UOCJob/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/UOCJob/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/UOCJob/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/UOCJob/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/UOCJob/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/UOCJob/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/UOCJob/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/UOCJob/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/UOCJob/assets/img/perfil.png": "c34d68aa614df190342bf4ccfb05fabce3561034",
+    "/UOCJob/assets/img/uoc_logo.png": "a8268228316a687fc11a0ecbedb2507aedcccf39",
+    "/UOCJob/common-es2015.d74e024dbd34aaad5f5d.js": "856d2e82a495a944656a7045066eaacaf4f2ec66",
+    "/UOCJob/common-es5.d74e024dbd34aaad5f5d.js": "1b7ade2902b287534b6b881e4d05dd34f56b8a28",
+    "/UOCJob/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/UOCJob/index.html": "a455ff5759d001dbadcbbd64ca0d7b7207aa1f1b",
+    "/UOCJob/main-es2015.3abbf8897bc93d6fe16a.js": "778d7e2022cba3ad83871e29ec618a67506e3ef7",
+    "/UOCJob/main-es5.3abbf8897bc93d6fe16a.js": "b645a8f1c21fa0521121f578e6b97acb1b5af8ae",
+    "/UOCJob/manifest.webmanifest": "cb1510963c4dc2e2c0c12ada9a3bf935928c679b",
+    "/UOCJob/polyfills-es2015.79b5019f4dff069483c4.js": "4475b4672a9d4d6d52c5f786ab4d627e9cabb16f",
+    "/UOCJob/polyfills-es5.5e48fa3dc66991f311b0.js": "af8edfd635f5e6adb7d8d84fca1423fc2b98db7a",
+    "/UOCJob/runtime-es2015.b299f53a8ba1037f6872.js": "965fdb5ca35cd5455791be1a4a3c78d581fba685",
+    "/UOCJob/runtime-es5.b299f53a8ba1037f6872.js": "7fc96335817aabee509d9dbd1679dfbc8c72cdf0",
+    "/UOCJob/styles.d0f64bd07c0040e3dd3b.css": "1767fb8e20a7f8d4475c064415c3da4e47a8704f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
